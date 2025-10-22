@@ -1,4 +1,4 @@
-import 'package:atm/atm.dart';
+import 'package:theater_booking/theater_booking.dart';
 import 'package:test/test.dart';
 
 void main() {
